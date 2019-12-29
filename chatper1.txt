@@ -1,1 +1,2 @@
 this is a new story
+with some added feature
